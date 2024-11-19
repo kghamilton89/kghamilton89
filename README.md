@@ -4,7 +4,7 @@ AI and ML technologies offer nearly limitless upside potential to humankind and 
 
 ### 💼 Experience
 
-I am an engineer with a demonstrated history of solving complex real-world problems creatively. I contribute to a number of open source projects because I believe in the power of the community.
+I am an architect and engineer with a demonstrated history of solving complex real-world problems creatively. I contribute to a number of open source projects because I believe in the power of the community.
 
 ### 🏆 Goals
 
