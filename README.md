@@ -9,3 +9,5 @@ I am an architect and engineer with a demonstrated history of solving complex re
 ### 🏆 Goals
 
 Build the best future we can using the best information we've got.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kghamilton89)](https://github.com/anuraghazra/github-readme-stats)
