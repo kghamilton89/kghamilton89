@@ -3,7 +3,7 @@
 AI and ML technologies offer nearly limitless upside potential to humankind and we would be foolish not to pursue these endeavours to the absolute fullest.
 
 Here are the industries that I've found to be most compatible with my approach and outlook:
-- Telecommunications - There is a real need for AI agents and ML modeling when approaching human-facing spaces and the ubiquity of telecommunications offers a lot of opportunity to enhance. 
+- Telecommunications - There is a real need for AI agents and ML modeling when approaching human-facing spaces and the ubiquity of telecommunications offers a lot of opportunity to enhance existing processes through action-automation and decision-automation.
 - Resource Extraction - As humans become more conscious of our impact on the world around us, optimising and improving extractive industries through technology is an imperative endeavour.
 - Pure Technology - I am a technologist. Innovation for the sake of innovation will always excite me.
 
