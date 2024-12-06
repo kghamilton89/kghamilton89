@@ -27,7 +27,3 @@ Here are the languages I prefer to use in order of fluency:
 ### 🏆 Goals
 
 Build the best future we can using the best information we've got.
-
-### 📚 Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kghamilton89)](https://github.com/anuraghazra/github-readme-stats)
